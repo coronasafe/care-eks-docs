@@ -38,4 +38,6 @@ You will need to modify the following files:
 
  After making the necessary changes you can apply the configurations to your cluster using `kubectl apply -f <manifest_file>`. You can also apply entire directories as `kubectl apply -f backend/`, `kubectl apply -f frontend/` etc.
 
- The Care Network should now be running at your domain URL.
+
+Applying nginx/service.yml will automatically create a Load Balancer in AWS. Head over to the AWS EC2 console and go to the Load Balancers subsection. Click on the create load balancer to get the DNS name. Now go to your domain registrar and and map your domain to this DNS name by creating an ALIAS type A record. Wait for a few minutes for the changes to be reflected.  
+The Care Network should now be running at your domain URL.
