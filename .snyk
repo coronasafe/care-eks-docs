@@ -1,0 +1,115 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.15.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - gitbook-cli > npm > pacote > make-fetch-happen > http-proxy-agent > debug:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > pacote > make-fetch-happen > https-proxy-agent > debug:
+        patched: '2020-06-22T06:22:36.772Z'
+  'npm:extend:20180424':
+    - gitbook-cli > npm > request > extend:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > extend:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > extend:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > extend:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > extend:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > extend:
+        patched: '2020-06-22T06:22:36.772Z'
+  'npm:hoek:20180212':
+    - gitbook-cli > npm > request > hawk > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > request > hawk > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > request > hawk > sntp > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > hawk > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > hawk > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > hawk > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > hawk > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > hawk > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > hawk > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > hawk > sntp > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > hawk > sntp > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > hawk > sntp > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > hawk > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > hawk > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > hawk > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > hawk > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > hawk > sntp > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > hawk > sntp > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-06-22T06:22:36.772Z'
+  SNYK-JS-LODASH-567746:
+    - gitbook-cli > lodash:
+        patched: '2020-06-22T06:22:36.772Z'
+  'npm:qs:20170213':
+    - gitbook-cli > npmi > npm > request > qs:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > qs:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > qs:
+        patched: '2020-06-22T06:22:36.772Z'
+  'npm:stringstream:20180511':
+    - gitbook-cli > npm > request > stringstream:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > stringstream:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > stringstream:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > stringstream:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > stringstream:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > stringstream:
+        patched: '2020-06-22T06:22:36.772Z'
+  'npm:tough-cookie:20170905':
+    - gitbook-cli > npm > request > tough-cookie:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > node-gyp > request > tough-cookie:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npm > npm-registry-client > request > tough-cookie:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > request > tough-cookie:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > tough-cookie:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > tough-cookie:
+        patched: '2020-06-22T06:22:36.772Z'
+  'npm:tunnel-agent:20170305':
+    - gitbook-cli > npmi > npm > request > tunnel-agent:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > node-gyp > request > tunnel-agent:
+        patched: '2020-06-22T06:22:36.772Z'
+    - gitbook-cli > npmi > npm > npm-registry-client > request > tunnel-agent:
+        patched: '2020-06-22T06:22:36.772Z'
