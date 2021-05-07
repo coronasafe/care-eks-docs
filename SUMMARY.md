@@ -11,4 +11,5 @@
 * [Deploying the projects on EKS](deployeks.md)
 * [Requirements: AWS](requirements-aws.md)
 * [Deploy](deploy.md)
+* [Operationalizing CARE in the field](operationalizing-care-in-the-field.md)
 
