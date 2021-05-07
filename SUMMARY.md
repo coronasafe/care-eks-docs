@@ -10,4 +10,5 @@
 * [Production Environment Variables](environment.md)
 * [Deploying the projects on EKS](deployeks.md)
 * [Requirements: AWS](requirements-aws.md)
+* [Deploy](deploy.md)
 
