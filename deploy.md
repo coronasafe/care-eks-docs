@@ -17,12 +17,7 @@
 * [ ] Add state-specific data. 
 * [ ] Test 
 
-## Training 
 
-[This document](https://docs.google.com/document/d/1v7I53UwmusgqJD2Ckl5rJdxwTw_zuEsAcYDbfmbtIB4/edit?usp=sharing%20) will help you understand CARE, the capacity management tool as well as the available dashboards better.  
-  
-There is detailed training material on the use of the tools.   
-The online certification course on using CARE is available at [CSN School](https://school.coronasafe.network/courses/357)   
-  
-There is also a youtube playlist for quick reference. [Playlist](https://www.youtube.com/playlist?list=PLf_Ch_O33Od7aMNrfW-njnKseXvI18kcI%20)
+
+Refer to the next section to learn how to operationalize CARE, set up teams on the field, and train the teams.
 
