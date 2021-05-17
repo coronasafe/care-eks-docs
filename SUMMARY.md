@@ -12,4 +12,5 @@
 * [Requirements: AWS](requirements-aws.md)
 * [Deploy](deploy.md)
 * [Operationalizing CARE in the field](operationalizing-care-in-the-field.md)
+* [Infrastructure](infrastructure.md)
 
