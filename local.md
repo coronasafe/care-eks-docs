@@ -1,4 +1,4 @@
-# Setting up the project locally
+# Setting up the server locally
 
 To create a local development setup of the care backend and frontend projects, perform the following steps.
 

@@ -2,9 +2,9 @@
 
 * [Introduction](Overview.md)
 * [Going Live: Checklist](going-live-checklist.md)
-* [Setting up the project locally](local.md)
-* [Overview](overview.md)
-* [Prerequisites](requirements.md)
+* [Setting up the server locally](local.md)
+* [Tech Overview](overview.md)
+* [Tech Prerequisites](requirements.md)
 * [Setting up AWS EKS](awseks.md)
 * [Setting up AWS RDS](awsrds.md)
 * [Build and push docker image](awsecr.md)

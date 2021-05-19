@@ -1,4 +1,4 @@
-# Prerequisites
+# Tech Prerequisites
 
 The following are what you'll need for the setup:
 
