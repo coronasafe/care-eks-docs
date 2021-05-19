@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](Overview.md)
+* [Going Live: Checklist](going-live-checklist.md)
 * [Setting up the project locally](local.md)
 * [Overview](overview.md)
 * [Prerequisites](requirements.md)
