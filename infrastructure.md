@@ -2,7 +2,7 @@
 description: Generic Infrastructure Requirments
 ---
 
-# Infrastructure
+# Tech Infrastructure
 
 ## **Recommended**
 
