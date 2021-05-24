@@ -16,7 +16,7 @@ description: >-
 **To set up a war-room the infrastructure required is:**
 
 * 3 Large screens
-* WiFi Requirement: preferably 1000Mbps speed 
+* WiFi Requirement: Atleast 100 Mbps speed 
 * Laptops, one each for data entry staff and 3 extra laptops to control the screens.
 * HDMI cables to connect the screens to the laptops
 * Ample number of charging points
