@@ -6,11 +6,11 @@ description: Generic Infrastructure Requirments
 
 ## **Recommended**
 
-1\) **Database:** Postgresql: 100GB SSD, minimum 4 core 16GB machine with multi zone failover to start off.   \(Production\)  +  read replica to manage read APIs
+1\) **Database:** Postgresql: 100GB SSD, minimum 4 core 16GB machine with multi-zone failover to start off.   \(Production\)  +  read replica to manage read APIs
 
 2\) **Kubernetes Cluster**
 
-3\) **Worker Nodes**: 4x  8core 32GB machines to start with on an autoscaling group with kubernetes optimized machine images.
+3\) **Worker Nodes**: 4x  8core 32GB machines to start with on an autoscaling group with Kubernetes optimized machine images.
 
 4\) **Load balancers**
 

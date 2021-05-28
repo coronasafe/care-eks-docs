@@ -15,6 +15,24 @@ Eg.: If you are in the backend folder, run `$ docker build -t care:latest .`
 
 After the creation of the image, you can verify it by running `$ docker images`
 
+The following branches are used for dev and production
+
+**Care Backend \( care \)** : 
+
+master -&gt; Development Branch
+
+production -&gt; Stable Production Branch
+
+**Care Fron End \( care\_fe \)** 
+
+develop -&gt; Development Branch
+
+master -&gt; Stable Production Branch
+
+**Always use stable production builds in production, Keep the fork in sync every 3 days.**
+
+**Always merge development branch and test before merging production.**
+
 ## Push the image to AWS ECR
 
 * Visit the ECR console.
