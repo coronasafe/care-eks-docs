@@ -31,7 +31,7 @@ master -&gt; Stable Production Branch
 
 **Always use stable production builds in production, Keep the fork in sync every 3 days.**
 
-**Always merge development branch and test before merging production.**
+**Always merge the development branch and test before merging production.**
 
 ## Push the image to AWS ECR
 
