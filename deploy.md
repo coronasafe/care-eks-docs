@@ -1,9 +1,7 @@
-# Deploy
+# Deploy: CARE
 
 ## Basic Requirments
 
-* [ ] Need the LSG details of the state. List of all districts, local bodies and wards in the state. 
-* [ ] Need an open-source copy of the state map for enabling map based plotting
 * [ ] Access to 3 subdomains \(dashboard, frontend, backend\)
 * [ ] AWS account with options to spin up services listed in [Requirements: AWS](requirements-aws.md)
 
