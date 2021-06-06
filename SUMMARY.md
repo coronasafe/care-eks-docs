@@ -15,6 +15,7 @@
 * [Deploy: CARE](deploy.md)
 * [Operationalizing CARE in the field](operationalizing-care-in-the-field.md)
 * [Setting up the War-Room](setting-up-the-war-room.md)
+* [Deployment Timeline](deployment-timeline.md)
 
 ## Ambulance Management System
 
