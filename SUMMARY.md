@@ -3,7 +3,7 @@
 * [Introduction](Overview.md)
 * [Going Live: Checklist : CARE](going-live-checklist.md)
 
-## CARE: Tech Deployment <a id="tech-deployment"></a>
+## CARE: Deploying Technology <a id="tech-deployment"></a>
 
 ---
 
