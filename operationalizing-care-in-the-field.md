@@ -25,7 +25,9 @@ Each hospital enters data about the 3 things
 * Bed capacity and availability
 * Oxygen availability and consumption
 
-The data entry at each hospital is closely monitored and enforced by a team appointed by the district collector.  
+The data entry at each hospital is closely monitored and enforced by a team appointed by the district collector.
+
+A short 6min video of recurring data entry at any hospital is available [here](https://youtu.be/7dZhIaW_HZE).   
 
 
 A War Room \(Control Centre\) is set up at the district level where the dashboards are viewed to make quick decisions on the field.  

@@ -4,7 +4,7 @@ description: Process to Go-Live with CARE in your district
 
 # Going Live: Checklist : CARE
 
-* [ ] Background information shared with the District Collector via a representative.
+* [ ] Background information is shared with the State Administrator or the District Collector via a representative.
 * [ ] Live Interaction with Ernakulam War Room to see capabilities.
 * [ ] Collector Appoints Nodal Officer
 * [ ] Local technical team is identified \(ideally the team must have 2 Django Developers, 2/3 React developers, and 1/2 DevOps engineers\)

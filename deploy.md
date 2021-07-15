@@ -1,4 +1,4 @@
-# Deploy: CARE
+# Steps to Deploy: CARE
 
 ## Basic Requirments
 
