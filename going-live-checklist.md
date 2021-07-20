@@ -7,7 +7,7 @@ description: Process to Go-Live with CARE in your district
 * [ ] Background information is shared with the State Administrator or the District Collector via a representative.
 * [ ] Live Interaction with Ernakulam War Room to see capabilities.
 * [ ] Collector Appoints Nodal Officer
-* [ ] Local technical team is identified \(ideally the team must have 2 Django Developers, 2/3 React developers, and 1/2 DevOps engineers\)
+* [ ] Local technical team is identified \(ideally the team must have 2 Django Developers, 2/3 React developers, and 1/2 DevOps engineers, 1 Data Analyst\)
 * [ ] Server Infrastructure is [deployed](https://deploydocs.coronasafe.network/overview) and linked to the domain of your choice. 
 * [ ] Nodal Officer sets up the [War Room Operations team](https://deploydocs.coronasafe.network/operationalizing-care-in-the-field) 
 * [ ] Training of the Core Team and the staff across the district with the [training material](https://school.coronasafe.network/courses/357) and [quick reference guides](https://www.youtube.com/playlist?list=PLf_Ch_O33Od7aMNrfW-njnKseXvI18kcI) 
